@@ -19,7 +19,7 @@ I enjoy building AI systems that are not only intelligent, but also **explainabl
 - **Real-time analytics and big data systems**
 - **Enterprise AI automation**
 - **AI evaluation, observability, and guardrails**
-- **BFSI-focused AI use cases and intelligent workflows**
+- **Domain-focused AI use cases and intelligent workflows**
 
 ---
 
